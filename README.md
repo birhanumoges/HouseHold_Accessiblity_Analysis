@@ -177,13 +177,6 @@ Preprocessing
 - SMOTE is applied only to training data to prevent data leakage
 - Spatial coordinates (`lat_dd_mod`, `lon_dd_mod`) are excluded from model features to avoid spatial leakage
 
----
-
-## 📄 License
-
-This project is part of an MSc thesis. Please cite appropriately if you use or adapt this work.
-
----
 
 ## 🙏 Acknowledgements
 
