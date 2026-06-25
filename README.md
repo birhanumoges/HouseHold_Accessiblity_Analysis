@@ -171,7 +171,10 @@ Preprocessing
 ---
 
 ## 📌 Notes
-
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)](https://scikit-learn.org/)
+[![LightGBM](https://img.shields.io/badge/LightGBM-3.3+-green.svg)](https://lightgbm.readthedocs.io/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 - All notebooks are designed to run on **Google Colab** with Google Drive mounted
 - The dataset path is hardcoded — update `file_path` if your Drive structure differs
 - SMOTE is applied only to training data to prevent data leakage
